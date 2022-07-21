@@ -17,6 +17,11 @@
     z-index: 10;
 }
 
+.btn:focus {
+    outline: 0;
+    box-shadow: unset;
+}
+
 .home{
     padding-top: 100px;
     height: 100vh;
