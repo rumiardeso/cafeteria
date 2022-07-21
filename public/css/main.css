@@ -55,10 +55,11 @@
 }
 
 .home .home-container .title{
-    font-family: 'Montserrat';
+    font-family: 'Courgette';
     font-size: 45px;
     font-weight: 700;
     color: #1C1A19;
+    line-height: 115%;
 }
 
 .home .home-container .text{
@@ -95,6 +96,34 @@
     color: #1C1A19;
 }
 
+.caramel-btn{
+    background-color: #CC9544;
+    font-family: 'Montserrat';
+    font-size: 16px;
+    font-weight: 400;
+    color: #FFF;
+    border: 1px solid #CC9544;
+}
+
+.caramel-btn:hover{
+    background-color: transparent;
+    color: #CC9544;
+}
+
+.white-btn{
+    background-color: #FFFFFF;
+    font-family: 'Montserrat';
+    font-size: 16px;
+    font-weight: 400;
+    color: #CC9544;
+    border: 1px solid #FFFFFF;
+}
+
+.white-btn:hover{
+    background-color: transparent;
+    color: #FFFFFF;
+}
+
 .sobre-nos .text{
     font-family: 'Montserrat';
     font-size: 22px;
@@ -105,4 +134,23 @@
 
 .sobre-nos .text .color{
     color: #CC9544;
+}
+
+.cta{
+    background: #CC9544;
+}
+
+.cta .title{
+    font-family: 'Courgette';
+    font-size: 65px;
+    font-weight: 700;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.cta .text{
+    font-family: 'Montserrat';
+    font-size: 22px;
+    font-weight: 400;
+    color: #FFFFFF;
 }
