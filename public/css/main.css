@@ -203,3 +203,29 @@
     color: #FFFFFF;
     line-height: 145%;
 }
+
+.contactos .card-title{
+    font-family: 'Courgette';
+    font-size: 40px;
+    font-weight: 700;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.contactos .card-subtitle{
+    font-family: 'Montserrat';
+    font-size: 18px;
+    font-weight: 500;
+    color: #FFFFFF;
+    line-height: 145%;
+    text-align: center;
+}
+
+.contactos .card-text{
+    font-family: 'Montserrat';
+    font-size: 22px;
+    font-weight: 500;
+    color: #FFFFFF;
+    line-height: 145%;
+    text-align: center;
+}
