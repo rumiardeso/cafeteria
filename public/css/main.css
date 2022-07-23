@@ -178,3 +178,54 @@
     line-height: 145%;
     text-align: center;
 }
+
+.contactos{
+    background-image: url('../images/contactos-bg.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.contactos .darker-bg{
+    background-color: #1c1a1996;
+}
+
+.contactos .title{
+    font-family: 'Courgette';
+    font-size: 60px;
+    font-weight: 700;
+    color: #FFFFFF;
+}
+
+.contactos .text{
+    font-family: 'Montserrat';
+    font-size: 22px;
+    font-weight: 500;
+    color: #FFFFFF;
+    line-height: 145%;
+}
+
+.contactos .card-title{
+    font-family: 'Courgette';
+    font-size: 40px;
+    font-weight: 700;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.contactos .card-subtitle{
+    font-family: 'Montserrat';
+    font-size: 18px;
+    font-weight: 500;
+    color: #FFFFFF;
+    line-height: 145%;
+    text-align: center;
+}
+
+.contactos .card-text{
+    font-family: 'Montserrat';
+    font-size: 22px;
+    font-weight: 500;
+    color: #FFFFFF;
+    line-height: 145%;
+    text-align: center;
+}
