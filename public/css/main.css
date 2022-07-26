@@ -229,3 +229,19 @@
     line-height: 145%;
     text-align: center;
 }
+
+#footer{
+    background-color: #1C1A19;
+}
+
+#footer .footer-item{
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+
+#footer .footer-item a{
+    font-family: 'Montserrat';
+    font-size: 16px;
+    font-weight: 500;
+    color: #FFF;
+}
